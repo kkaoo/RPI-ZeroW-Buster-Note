@@ -117,7 +117,7 @@
 
 
 【4】 驱动SPI
-![Alt text](/doc/st7735s_pins.jpg)
+![Alt text](/doc/st7735s_pins.png)
 
         脚位图  
 
